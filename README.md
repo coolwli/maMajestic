@@ -1,6 +1,4 @@
 # maMajestic
+## dunyanin en ıyı oyunu step1
 
-## my lana del rey fan page
-[Visit My Site](https://coolwli.github.io/lanadelrey/)
-
-![screenshot](https://github.com/coolwli/lanadelrey/blob/main/assets/img/ss.png)
+![screenshot](https://github.com/coolwli/maMajestic/blob/main/Assets/character.png)
